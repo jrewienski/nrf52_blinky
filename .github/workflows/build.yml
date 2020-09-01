@@ -9,7 +9,7 @@ on:
 jobs:
 
 # generate build cross-platform build files
-generate:
+  generate:
     name: Generate cross-platform builds
     runs-on: ubuntu-latest
     steps:
