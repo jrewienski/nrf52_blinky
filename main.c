@@ -56,6 +56,7 @@
 /**
  * @brief Function for application main entry.
  */
+// Commiting any change
 int main(void)
 {
     /* Configure board. */
